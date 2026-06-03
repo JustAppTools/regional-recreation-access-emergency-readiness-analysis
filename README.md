@@ -3,6 +3,9 @@
 ## Project Overview
 This project uses public GIS datasets to identify recreation or visitor sites in a regional National Recreation Area study area that may be more difficult to support during emergencies. The analysis combines proximity to medical facilities, Fire/EMS stations, major roads, and terrain context into a simple portfolio-ready screening map.
 
+## Final Map
+![Regional Recreation Access & Emergency Readiness Analysis final map](outputs/Regional_Recreation_Access_Emergency_Readiness_Map_V18.png)
+
 ## Research Question
 Which visitor and recreation sites in the study area may have higher access-related emergency-readiness concern based on straight-line proximity to emergency services and major roads?
 
