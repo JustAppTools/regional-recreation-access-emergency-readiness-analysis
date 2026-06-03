@@ -1,0 +1,26 @@
+# ArcGIS Pro cache and local runtime artifacts
+.backups/
+GpMessages/
+ImportLog/
+Index/
+RasterFunctionTemplates/
+*.lock
+*.sr.lock
+*.freelist
+
+# Project backups and iterative working copies
+*_before_*.aprx
+
+# Default scratch/project boilerplate not needed for the portfolio repo
+Blank.gdb/
+
+# Keep only final portfolio exports in git.
+outputs/*
+!outputs/Regional_Recreation_Access_Emergency_Readiness_Map_V18.png
+!outputs/Regional_Recreation_Access_Emergency_Readiness_Map_V18.pdf
+!outputs/Final Portfolio Layout v18.png
+!outputs/Final Portfolio Layout v18.pdf
+
+# OS clutter
+Thumbs.db
+.DS_Store

@@ -1,0 +1,9 @@
+Lake Roosevelt Emergency Readiness Analysis - Data Source References
+
+NPS Land Resources Division Boundary: https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/NPS_Land_Resources_Division_Boundary_and_Tract_Data_Service/FeatureServer/2
+NPS Public Points of Interest: https://mapservices.nps.gov/arcgis/rest/services/NationalDatasets/NPS_Public_POIs/FeatureServer/0
+HIFLD Medical Facilities: https://services9.arcgis.com/FF3qnCUixr5w9JQi/ArcGIS/rest/services/US_HIFLD_Assets/FeatureServer/2
+HIFLD Fire Stations: https://services9.arcgis.com/FF3qnCUixr5w9JQi/ArcGIS/rest/services/US_HIFLD_Assets/FeatureServer/3
+U.S. Census TIGER/Line 2024 county roads: https://www2.census.gov/geo/tiger/TIGER2024/ROADS/
+Esri World Hillshade: https://services.arcgisonline.com/ArcGIS/rest/services/Elevation/World_Hillshade/MapServer
+Esri Light Gray Canvas: https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer

@@ -1,0 +1,8 @@
+*.aprx binary
+*.gdb/** binary
+*.png binary
+*.pdf binary
+*.zip binary
+*.shp binary
+*.dbf binary
+*.shx binary
